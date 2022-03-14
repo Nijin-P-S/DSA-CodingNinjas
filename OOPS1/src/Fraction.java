@@ -29,4 +29,5 @@ public class Fraction {
         this.numerator/=gcd;
         this.denominator/=gcd;
     }
+
 }
